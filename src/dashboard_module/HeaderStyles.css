@@ -1,0 +1,24 @@
+ul{
+    list-style-type: none;
+}
+
+li{
+    display:inline;
+}
+
+li a{
+    font-size: 20px;
+    padding: 18px;
+    color:white;
+    text-decoration: none;
+}
+
+.HeaderDiv{
+    background-color: black;
+    height:64px;
+    display:grid;
+    grid-template-rows: 100px;
+    grid-template-columns: 300px 600px 600px;
+    grid-column-gap: 20px;
+
+}

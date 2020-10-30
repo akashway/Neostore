@@ -1,0 +1,12 @@
+.FooterContent{
+    background-color: black;
+    color:white;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    display: grid;
+    grid-template-rows: 200px;
+    grid-template-columns: 1fr 1fr 1fr;
+    font-size: 12px;
+}
